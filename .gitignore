@@ -1,0 +1,9 @@
+gener8/target/gener8-1.0.0.0-SNAPSHOT.jar
+gener8/target/maven-archiver/pom.properties
+gener8/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+gener8/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+gener8/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+gener8/target/test-classes/com/jcworx/Gener8.class
+gener8/target/test-classes/com/jcworx/Gener8$SeedData.class
+gener8/target/test-classes/com/jcworx/Gener8$SeedData$Address.class
+gener8/target/test-classes/com/jcworx/Gener8$SeedData$Person.class
